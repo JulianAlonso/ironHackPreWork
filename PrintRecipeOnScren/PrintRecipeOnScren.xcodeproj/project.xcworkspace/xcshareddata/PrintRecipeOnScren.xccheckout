@@ -5,23 +5,23 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>4033DAB6-2E70-44D1-B257-32F098D839A3</string>
+	<string>A5455FB5-A5B0-4FC5-9B20-B3113594EC41</string>
 	<key>IDESourceControlProjectName</key>
-	<string>PrintRecipe</string>
+	<string>PrintRecipeOnScren</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>E0A632402623A7BBAE3080C1C94D5E13FFBFC783</key>
-		<string>https://github.com/JulianAlonso/ironHackPreWork</string>
+		<string>https://github.com/JulianAlonso/ironhackPrework</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>PrintRecipe/PrintRecipe.xcodeproj</string>
+	<string>PrintRecipeOnScren/PrintRecipeOnScren.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>E0A632402623A7BBAE3080C1C94D5E13FFBFC783</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/JulianAlonso/ironHackPreWork</string>
+	<string>https://github.com/JulianAlonso/ironhackPrework</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
